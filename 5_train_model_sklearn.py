@@ -20,7 +20,7 @@ plt.style.use('ggplot')
 
 
 # Load data from file
-df = pd.read_csv('../data/df_model_final1.csv')
+df = pd.read_csv('data/df_model_final1.csv')
 
 
 # In[1]:
